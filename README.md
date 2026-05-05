@@ -12,7 +12,7 @@
 ```python
 Eshagh = {
     "role"      : "Security Engineer & Full Stack Developer",
-    "degree"    : "M.Sc. Computer Science — University of Padova",
+    "degree"    : "M.Sc. Computer Science - University of Padova",
     "thesis"    : "Hybrid Fuzzing Architecture for 5G O-RAN Microservices",
     "passion"   : "Breaking systems to understand how to build better ones",
     "open_to"   : ["Security Engineering", "SOC / Incident Response", "Cloud Security"],
@@ -24,11 +24,11 @@ Eshagh = {
 
 ## ⚡ What I Actually Do
 
-I sit at the intersection of **security research** and **software engineering** — and I think that intersection is where the most interesting problems live.
+I sit at the intersection of **security research** and **software engineering** - and I think that intersection is where the most interesting problems live.
 
-On the security side, I build tools that find vulnerabilities before attackers do. My Master's thesis exposed **8 critical vulnerabilities in 5G O-RAN infrastructure** — 5 of them previously unreported zero-days — using a custom fuzzing harness I engineered from scratch that runs at **23,000+ executions per second** (a 3,285× speedup over baseline approaches).
+On the security side, I build tools that find vulnerabilities before attackers do. My Master's thesis exposed **8 critical vulnerabilities in 5G O-RAN infrastructure** - 5 of them previously unreported zero-days - using a custom fuzzing harness I engineered from scratch that runs at **23,000+ executions per second** (a 3,285× speedup over baseline approaches).
 
-On the engineering side, I have been building for the web since 2016. I have shipped **20+ commercial WordPress plugins** on CodeCanyon with real paying users, built and scaled an **educational platform to 1,500+ students**, and delivered **15+ client websites** end to end. I write code that I also know how to break — which makes it better code.
+On the engineering side, I have been building for the web since 2016. I have shipped **20+ commercial WordPress plugins** on CodeCanyon with real paying users, built and scaled an **educational platform to 1,500+ students**, and delivered **15+ client websites** end to end. I write code that I also know how to break - which makes it better code.
 
 ---
 
@@ -114,7 +114,7 @@ On the engineering side, I have been building for the web since 2016. I have shi
 
 ## 🎯 What I'm Looking For
 
-I'm actively seeking roles in **cybersecurity engineering** across Europe — particularly:
+I'm actively seeking roles in **cybersecurity engineering** across Europe - particularly:
 
 - 🔴 Security Operations / SOC (L2+)
 - 🔴 Vulnerability Management & Penetration Testing
