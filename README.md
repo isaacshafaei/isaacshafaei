@@ -125,18 +125,6 @@ Open to relocation → **Netherlands · Switzerland · Italy**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E53935&text_color=FFFFFF)
-
-</div>
-
----
-
 <div align="center">
 
 *"The best security engineers think like developers. The best developers think like attackers."*
