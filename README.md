@@ -1,24 +1,8 @@
 <div align="center">
-███████╗███████╗██╗  ██╗ █████╗  ██████╗ ██╗  ██╗
-██╔════╝██╔════╝██║  ██║██╔══██╗██╔════╝ ██║  ██║
-█████╗  ███████╗███████║███████║██║  ███╗███████║
-██╔══╝  ╚════██║██╔══██║██╔══██║██║   ██║██╔══██║
-███████╗███████║██║  ██║██║  ██║╚██████╔╝██║  ██║
-╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-
-███████╗██╗  ██╗ █████╗ ███████╗ █████╗ ███████╗██╗
-██╔════╝██║  ██║██╔══██╗██╔════╝██╔══██╗██╔════╝██║
-███████╗███████║███████║█████╗  ███████║█████╗  ██║
-╚════██║██╔══██║██╔══██║██╔══╝  ██╔══██║██╔══╝  ██║
-███████║██║  ██║██║  ██║██║     ██║  ██║███████╗██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝
-
 ### Security Engineer · Full Stack Developer · Vulnerability Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshaghshafaie333@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-Italy_→_EU-00897B?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaghshafaei)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Isaacspirit333@gmail.com)
 </div>
 
 ---
