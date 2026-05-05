@@ -10,7 +10,7 @@
 ## `whoami`
 
 ```python
-eshagh = {
+Eshagh = {
     "role"      : "Security Engineer & Full Stack Developer",
     "degree"    : "M.Sc. Computer Science — University of Padova",
     "thesis"    : "Hybrid Fuzzing Architecture for 5G O-RAN Microservices",
