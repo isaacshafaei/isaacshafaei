@@ -1,5 +1,5 @@
 <div align="center">
-### Security Engineer · Full Stack Developer · Vulnerability Researcher
+### Junior Security Analyst · Web Security · Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaghshafaei)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Isaacspirit333@gmail.com)
