@@ -11,12 +11,42 @@
 
 ```python
 Eshagh = {
-    "role"      : "Security Engineer & Full Stack Developer",
-    "degree"    : "M.Sc. Computer Science - University of Padova",
-    "thesis"    : "Hybrid Fuzzing Architecture for 5G O-RAN Microservices",
-    "passion"   : "Breaking systems to understand how to build better ones",
-    "open_to"   : ["Security Engineering", "SOC / Incident Response", "Cloud Security"],
-    "location"  : "Italy → open to NL, CH, EU relocation",
+    "role": "Junior Security Analyst | Web Developer",
+    "degree": "M.Sc. Computer Science - University of Padova",
+    "thesis": "C++ Protocol Fuzzing for 5G O-RAN Interfaces",
+    "background": "Web development → cybersecurity",
+    "focus": [
+        "SOC analysis",
+        "Incident response",
+        "Web application security",
+        "Secure code review",
+        "Protocol fuzzing"
+    ],
+    "tools": [
+        "Splunk",
+        "Wazuh",
+        "Wireshark",
+        "Burp Suite",
+        "Nmap",
+        "Python",
+        "Bash",
+        "PHP",
+        "C++"
+    ],
+    "learning": [
+        "SOC Level 2",
+        "Penetration testing",
+        "Threat detection"
+    ],
+    "passion": "Building software, breaking it, and learning how to secure it better",
+    "open_to": [
+        "SOC Analyst",
+        "Junior Security Analyst",
+        "Incident Response Trainee",
+        "Web Application Security",
+        "Security Research Internship"
+    ],
+    "location": "Italy → open to NL, CH, and EU relocation",
 }
 ```
 
