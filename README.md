@@ -11,42 +11,12 @@
 
 ```python
 Eshagh = {
-    "role": "Junior Security Analyst | Web Developer",
-    "degree": "M.Sc. Computer Science - University of Padova",
-    "thesis": "C++ Protocol Fuzzing for 5G O-RAN Interfaces",
-    "background": "Web development → cybersecurity",
-    "focus": [
-        "SOC analysis",
-        "Incident response",
-        "Web application security",
-        "Secure code review",
-        "Protocol fuzzing"
-    ],
-    "tools": [
-        "Splunk",
-        "Wazuh",
-        "Wireshark",
-        "Burp Suite",
-        "Nmap",
-        "Python",
-        "Bash",
-        "PHP",
-        "C++"
-    ],
-    "learning": [
-        "SOC Level 2",
-        "Penetration testing",
-        "Threat detection"
-    ],
-    "passion": "Building software, breaking it, and learning how to secure it better",
-    "open_to": [
-        "SOC Analyst",
-        "Junior Security Analyst",
-        "Incident Response Trainee",
-        "Web Application Security",
-        "Security Research Internship"
-    ],
-    "location": "Italy → open to NL, CH, and EU relocation",
+    "role"     : "Junior Security Analyst & Web Developer",
+    "degree"   : "M.Sc. Computer Science - University of Padova",
+    "thesis"   : "C++ Protocol Fuzzing for 5G O-RAN Interfaces",
+    "passion"  : "Building software, breaking it, and learning how to secure it",
+    "open_to"  : ["SOC Analyst", "Junior Security Analyst", "Web Security", "Incident Response"],
+    "location" : "Italy → open to NL, CH, EU relocation",
 }
 ```
 
@@ -54,28 +24,25 @@ Eshagh = {
 
 ## ⚡ What I Actually Do
 
-I sit at the intersection of **security research** and **software engineering** - and I think that intersection is where the most interesting problems live.
+I work across **cybersecurity, web application security, and software engineering**.
 
-On the security side, I build tools that find vulnerabilities before attackers do. My Master's thesis exposed **8 critical vulnerabilities in 5G O-RAN infrastructure** - 5 of them previously unreported zero-days - using a custom fuzzing harness I engineered from scratch that runs at **23,000+ executions per second** (a 3,285× speedup over baseline approaches).
+My background started in web development, where I built **20+ commercial WordPress plugins**, delivered client websites, and worked with PHP, WordPress, WooCommerce, REST APIs, and secure coding practices. While working on production code, I identified and fixed issues such as **XSS**, **broken access control**, insecure input handling, and authentication-related bugs.
 
-On the engineering side, I have been building for the web since 2016. I have shipped **20+ commercial WordPress plugins** on CodeCanyon with real paying users, built and scaled an **educational platform to 1,500+ students**, and delivered **15+ client websites** end to end. I write code that I also know how to break - which makes it better code.
+I also founded and managed **KitWP**, a technical education platform with **1,800+ paying users** and **400+ published tutorials**, where I handled website security, SSL/TLS setup, access control, payment security, and incident response for real user data.
+
+On the security side, I practice **SOC analysis, log review, threat detection, and incident triage** using tools like **Splunk, Wazuh, Wireshark, Burp Suite, Nmap, Python, and Bash**. For my MSc thesis, I also built a C++ fuzzing framework for 5G O-RAN systems that helped uncover multiple vulnerabilities.
+
+My focus now is growing as a **Security Analyst / SOC Analyst**, combining my software engineering background with practical security skills.
 
 ---
 
-## 🔬 Thesis Research Highlight
+## 🛠 Main Skills
 
-> **"Stateful Stress and Stateless Speed: A Hybrid Fuzzing Architecture for O-RAN Microservices"**
-> *University of Padova · Supervisor: Prof. Alessandro Brighente · 2026*
-
-| Metric | Result |
-|--------|--------|
-| Execution speed | **23,000+ inputs/sec** |
-| Speedup vs baseline | **3,285×** |
-| Critical vulnerabilities found | **8 total** |
-| Previously unreported zero-days | **5** |
-| Vulnerability types | Buffer overflows, heap-use-after-free, null-pointer dereference, race conditions, unhandled exceptions |
-
-**Stack:** C++, AFL++, AddressSanitizer (ASan), Python, ASN.1, O-RAN-SC
+**Security:** SOC analysis, incident response, web application security, secure code review, OWASP Top 10, vulnerability assessment  
+**Tools:** Splunk, Wazuh, Wireshark, Burp Suite, Nmap, Kali Linux, Git  
+**Programming:** Python, Bash, PHP, C++, JavaScript  
+**Web:** WordPress, WooCommerce, REST APIs, MySQL, HTML/CSS  
+**Learning:** Threat detection, penetration testing, SOC Level 2, vulnerability research
 
 ---
 
@@ -117,41 +84,35 @@ On the engineering side, I have been building for the web since 2016. I have shi
 
 ```
 2026  ──▶  M.Sc. Computer Science · University of Padova
-              Thesis: Hybrid Fuzzing for 5G O-RAN · 8 CVEs found
-              
-2023  ──▶  Security Engineer (Part-time) · Aftech International
-              SIEM, firewalls, VPN, incident response, Python automation
+              Thesis: C++ Protocol Fuzzing for 5G O-RAN Interfaces
 
-2021  ──▶  Security Analyst · Kitwp (E-learning Platform, 10,000+ users)
-              50+ vulnerabilities mitigated · 35+ secure PHP modules
+2023  ──▶  Cybersecurity Researcher / SOC Analyst · Independent
+              Splunk, Wazuh, Wireshark, threat detection, log analysis, Python/Bash automation
 
-2021  ──▶  SEO Specialist · Freelance
-              200+ keywords ranked page 1 · Revenue 0 → 200M Rial/month
+2019  ──▶  Founder & Web Application Security · KitWP
+              1,800+ paying users · 407 tutorials · SSL/TLS, access control, payment security
 
-2018  ──▶  Junior Software Engineer · iThemelandCo
-              13+ client websites · PHP backend · WordPress
+2018  ──▶  WordPress Plugin Developer · iThemelandCo
+              20+ commercial plugins · PHP security · XSS and broken access control fixes
 
-2018  ──▶  WordPress Developer · CodeCanyon (Envato)
-              20+ commercial plugins · Global marketplace
+2017  ──▶  B.Sc. Computer Software Engineering · Azad University
+              Software engineering, web development, databases, programming fundamentals
 
 2016  ──▶  Web Developer · Freelance
-              15 websites · HTML, CSS, JS, PHP, Laravel
-
-2015  ──▶  B.Sc. Computer Engineering · Azad University of Kashan
+              Client websites · HTML, CSS, JavaScript, PHP, WordPress
 ```
 
 ---
 
 ## 🎯 What I'm Looking For
 
-I'm actively seeking roles in **cybersecurity engineering** across Europe - particularly:
+I'm actively seeking **entry-level cybersecurity roles** across Europe, especially:
 
-- 🔴 Security Operations / SOC (L2+)
-- 🔴 Vulnerability Management & Penetration Testing
-- 🔴 Cloud Security Engineering
-- 🟠 Full Stack Development (security-conscious teams)
-
-Open to relocation → **Netherlands · Switzerland · Italy**
+- 🔴 SOC Analyst / Security Analyst L1
+- 🔴 Incident Response / Threat Detection
+- 🔴 Vulnerability Assessment & Web Application Security
+- 🔴 Secure Code Review / Application Security
+- 🟠 Security-focused Web Development
 
 ---
 
