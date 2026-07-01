@@ -14,7 +14,7 @@ Eshagh = {
     "role"     : "Junior Security Analyst & Web Developer",
     "degree"   : "M.Sc. Computer Science - University of Padova",
     "thesis"   : "C++ Protocol Fuzzing for 5G O-RAN Interfaces",
-    "passion"  : "Building software, breaking it, and learning how to secure it",
+    "passion"  : ""passion": "Finding vulnerabilities and improving security before attackers exploit them"",
     "open_to"  : ["SOC Analyst", "Junior Security Analyst", "Web Security", "Incident Response"],
     "location" : "Italy → open to NL, CH, EU relocation",
 }
